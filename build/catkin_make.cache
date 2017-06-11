@@ -1,0 +1,2 @@
+husky_gazebo:husky_simulator
+-DCATKIN_DEVEL_PREFIX=/home/trim/CODE/ROS/husky_ws/devel -DCMAKE_INSTALL_PREFIX=/home/trim/CODE/ROS/husky_ws/install -G Unix Makefiles

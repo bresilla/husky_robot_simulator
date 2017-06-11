@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/trim/CODE/ROS/husky_ws/devel/setup.sh
